@@ -41,8 +41,8 @@ header{
     height: 750px;
     /* fallback for old browsers */
     background: #c31432; 
-    background: -webkit-linear-gradient(to right, #240b36b5, #c314319c),url(/prime/img/gallery__picture11.jpg);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #240b36b5, #c314319c),url(/prime/img/gallery__picture11.jpg); 
+    background: -webkit-linear-gradient(to right, #240b36b5, #c314319c),url(img/gallery__picture11.jpg);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #240b36b5, #c314319c),url(img/gallery__picture11.jpg); 
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background-size: cover;
     background-repeat: no-repeat;
@@ -278,7 +278,7 @@ footer{
 
 @media  (max-width:900px) {
  header{
-    background: linear-gradient(to right, #240b36b5, #c314319c),url(/prime/img/corsa.jpg); 
+    background: linear-gradient(to right, #240b36b5, #c314319c),url(img/corsa.jpg); 
     background-repeat: no-repeat;
     background-position:center ;
     background-attachment:fixed;
